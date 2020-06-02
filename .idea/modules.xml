@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/cloud2020.iml" filepath="$PROJECT_DIR$/.idea/cloud2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud2020/springcloud2020.iml" filepath="$PROJECT_DIR$/springcloud2020/springcloud2020.iml" />
     </modules>
   </component>
 </project>
